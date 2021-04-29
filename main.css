@@ -1,15 +1,16 @@
+  
 *
 {
+    font-family:'Gobold';
     margin: 0;
     padding: 0;
-    font-family: 'Gobold', sans-serif;
 }
 
 
 html,
 body
 {
-    font-family: 'Gobold';
+    font-family: "Gobold";
     height: 100vh;
 
     
@@ -31,14 +32,14 @@ body{
     display: none;
 }
 .title{
-    font-family: 'Gobold', sans-serif;
+    font-family:'Gobold';
     color: white; 
     width: 100vw; 
     font-size: 3rem; 
     text-align: center;
 }
 .tip{
-    font-family: 'Gobold', sans-serif;
+    font-family:'Gobold';
     color: white; 
     width: 99vw;
     font-size:90%;
@@ -46,7 +47,7 @@ body{
     
 }
 .start-button{
-    font-family: 'Gobold', sans-serif;
+    font-family:'Gobold';
     font-family: inherit;
     font-size: 1.5vw;
     position: absolute;
@@ -65,7 +66,8 @@ body{
     background-color: rgba(0, 0, 0, 0.1);
 }
 .reset-button{
-    font-family: 'Gobold', sans-serif;
+    font-family:'Gobold';
+    font-family: inherit;
     position: absolute;
     top: 70%;
     left: 80%;
@@ -85,7 +87,7 @@ body{
 }
 
 .credits{
-    font-family: 'Gobold', sans-serif;
+    font-family:'Gobold';
     margin-top: 3%;
     margin-left: 1%;
     width: 10px;
