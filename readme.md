@@ -1,5 +1,5 @@
 # 3dtch-A-Sketch
-By David Duarte for The Odin Project
+By David Duarte for The Odin Project using three js + gsap
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
