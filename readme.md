@@ -1,5 +1,5 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# 3dtch-A-Sketch
+By David Duarte for The Odin Project
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
